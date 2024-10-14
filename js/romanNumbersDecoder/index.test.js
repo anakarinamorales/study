@@ -1,7 +1,5 @@
 const romanNumbersDecoder = require("./index");
 
-console.log(romanNumbersDecoder);
-
 test("Converts the roman number XXI to 21", () => {
   expect(romanNumbersDecoder("XXI")).toBe(21);
 });
