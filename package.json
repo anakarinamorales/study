@@ -1,0 +1,14 @@
+{
+  "name": "study",
+  "version": "0.0.1",
+  "repository": "git@github.com:anakarinamorales/study.git",
+  "author": "Ana Karina Morales Machado <akarinammachado@gmail.com>",
+  "license": "GPL-3.0",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
